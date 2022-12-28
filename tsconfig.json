@@ -17,16 +17,12 @@
     "moduleResolution": "node",
     "importHelpers": true,
     "paths": {
-      "poc-lib": [
-        "dist/poc-lib"
-      ]
+      "poc-lib/*": ["projects/poc-lib/*"],
+      "poc-lib": ["dist/poc-lib"]
     },
     "target": "es2020",
     "module": "es2020",
-    "lib": [
-      "es2020",
-      "dom"
-    ]
+    "lib": ["es2020", "dom"]
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
