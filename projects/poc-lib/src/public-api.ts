@@ -2,6 +2,10 @@
  * Public API Surface of poc-lib
  */
 
-export * from './lib/poc-lib.service';
-export * from './lib/poc-lib.component';
-export * from './lib/poc-lib.module';
+export * from './lib/library-a/library-a.module';
+export * from './lib/library-b/library-b.module';
+export * from './lib/library-c/library-c.module';
+
+export * from './lib/library-a/a/a.component';
+export * from './lib/library-b/b/b.component';
+export * from './lib/library-c/c/c.component';
