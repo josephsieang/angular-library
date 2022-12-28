@@ -2,6 +2,6 @@
  * Public API Surface of poc-lib
  */
 
-export * from './lib/library-a';
-export * from './lib/library-b';
-export * from './lib/library-c';
+export * from 'poc-lib/src/lib/library-a';
+export * from 'poc-lib/src/lib/library-b';
+export * from 'poc-lib/src/lib/library-c';
