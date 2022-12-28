@@ -3,15 +3,10 @@ import { CommonModule } from '@angular/common';
 
 import { LazyCRoutingModule } from './lazy-c-routing.module';
 import { LazyCComponent } from './lazy-c.component';
-
+import { LibraryCModule } from 'poc-lib';
 
 @NgModule({
-  declarations: [
-    LazyCComponent
-  ],
-  imports: [
-    CommonModule,
-    LazyCRoutingModule
-  ]
+  declarations: [LazyCComponent],
+  imports: [CommonModule, LazyCRoutingModule, LibraryCModule],
 })
-export class LazyCModule { }
+export class LazyCModule {}
