@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Reference
+
+- [Angular library creation and publishing](https://www.youtube.com/playlist?list=PLhzRPVQgdM8Vlty5X7d7cDTuW6QcCMaB8)
+- [The best way to Architect Your Angular Libraries](https://www.youtube.com/watch?v=DJewg33FEa0&t=2686s)
+- [Building an Angular Library with multiple entry point](https://sandroroth.com/blog/angular-library)
