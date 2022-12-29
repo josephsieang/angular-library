@@ -1,6 +1,7 @@
 # AngularLibraryArchitecture
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+- It is to study angular library creation and publish angular library to private npm registry using Verdaccio.
 
 ## Development server
 
